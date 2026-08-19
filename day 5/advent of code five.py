@@ -122,7 +122,7 @@ def mini_fix(item):
     return item
     
 
-
+reformation = fixer(reformation)
 reformed_middles = []
 for item in reformation:
     middle = math.ceil(len(item)/2) - 1
