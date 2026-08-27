@@ -106,7 +106,7 @@ print(f"The guard has visited {move_counter} distinct locations.")
 
 
 
-#part 2
+#part 2 incomplete, will come back to it once i get a better idea
 
 def alt_move(map):
     on_map = True
