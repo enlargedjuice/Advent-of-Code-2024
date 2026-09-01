@@ -7,7 +7,7 @@ problems = samp_inp.splitlines()
 
 answers = []
 numbers = []
-#putting everything into a nice dictionary! finally get to use one :)
+#putting everything into a nice dictionary! finally get to use one :), nvm dictionaries are evil for this problem
 for item in problems:
     refined = item.split(":")
     refined[1] = refined[1].split()
